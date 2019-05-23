@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "sang-u"
 description              : "An amazing website."
 url                      : "https://schizoidmin.github.io" # the base hostname & protocol for your site e.g. ""
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -282,4 +282,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-minimal
+theme: mmistakes/minimal-mistakes

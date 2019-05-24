@@ -1,13 +1,18 @@
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
-title: "hello world!"
-date: 2019-05-21 13:13:28 -0400
-categories: jekyll update
+permalink: /about/
+title: "About"
+excerpt: "설명입니다"
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
+last_modified_at: 2019-04-03T15:15:09-04:00
+toc: true
 ---
+아 이거 어케하는거고

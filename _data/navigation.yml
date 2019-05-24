@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: https://schizoidmin.github.io/msw/_pages
+  - title: "posts"
+    url: htpps://shcizoidmin.github.io/msw/_posts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
